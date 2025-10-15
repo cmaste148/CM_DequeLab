@@ -33,4 +33,5 @@ public:
 	void solveThink(int* values, int numValues);
 };
 
+
 #endif //DEQUE_HPP
